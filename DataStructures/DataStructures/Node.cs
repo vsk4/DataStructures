@@ -1,8 +1,8 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace DS_Demo
+namespace LinkedListProject
 {
     public class Node
     {
@@ -13,7 +13,4 @@ namespace DS_Demo
             this.data = data;
         }
     }
-
-
-
 }
